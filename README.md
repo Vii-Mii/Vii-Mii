@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijayaraj Pushpalingam</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **Hcltech**
-
-- 🌱 I’m currently learning **Docker**
+- 🔭 I’m currently working on **HCLTECH**
 
 - 👨‍💻 All of my projects are available at [https://vijayaraj.streamlit.app/](https://vijayaraj.streamlit.app/)
 
