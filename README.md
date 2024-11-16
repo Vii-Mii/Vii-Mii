@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/vii_mii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/vii_mii_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vijayaraj-p-0b11821b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijayaraj-p-0b11821b6/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vjlingam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vjlingam7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vijayarajp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vijayarajp/" height="30" width="40" /></a>
+<a href="https://twitter.com/its_me_vii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_me_vii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vijayaraj-p-0b11821b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijayaraj-p-0b11821b6" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vjlingam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vjlingam7" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vijayarajp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vijayarajp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
